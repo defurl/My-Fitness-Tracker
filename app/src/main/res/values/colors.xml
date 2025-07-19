@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_light">#FFCCCCCC</color>
+    <color name="grey_dark">#FF333333</color>
+    <color name="grey_very_dark">#FF1C1C1E</color>
+    <color name="accent_blue">#FF0A84FF</color>
+    <color name="primary_background">@color/grey_very_dark</color>
+    <color name="primary_text">@color/white</color>
+    <color name="secondary_text">@color/grey_light</color>
+    <color name="card_background">@color/grey_dark</color>
+    <color name="button_background">@color/white</color>
+    <color name="button_text">@color/black</color>
+    <color name="icon_tint">@color/white</color>
+    <color name="divider_color">@color/grey_dark</color>
+</resources>
